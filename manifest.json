@@ -1,0 +1,27 @@
+{
+	"name": "R Bandung Stadium",
+	"short_name": "RBS Apps",
+	"icons": [
+		{
+			"src": "/icon/icon100px.png",
+			"sizes": "100x100",
+			"type": "image/png"
+		},
+
+		{
+			"src": "/icon/icon200px.png",
+			"sizes": "200x200",
+			"type": "image/png"
+		},
+		{
+			"src": "/icon/icon300px.png",
+			"sizes": "300x300",
+			"type": "image/png"
+		}
+		],
+
+	"start_url": "/?utm_source=homescreen",
+	"display": "standalone",
+	"background_color": "#dfe6e9",
+	"theme_color": "#b2bec3"
+}
